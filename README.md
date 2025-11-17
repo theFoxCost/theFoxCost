@@ -1,6 +1,6 @@
 # 🦊 theFoxCost
 
-**`Simple Human (Developer/Engineer/Designer)`**
+**`IS Grass Green`**
 
 I'm an Eletrical Engineer and full-stack developer and Mobile/desktop app developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code adb hardware .
 
